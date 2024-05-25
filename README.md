@@ -1,4 +1,4 @@
-# Banall bot
+#Dragon Banall bot
 
 Telegram Ban all Bot Which can Remove All members easily ...
 
